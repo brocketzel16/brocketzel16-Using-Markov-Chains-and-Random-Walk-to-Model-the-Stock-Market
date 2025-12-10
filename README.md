@@ -1,1 +1,1 @@
-# brocketzel16-Using-Markov-Chains-and-Random-Walk-to-Model-the-Stock-Market
+# Using Markov Chains and Random Walk to Model the Stock Market
